@@ -15,7 +15,8 @@
         "startDate": "2021",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "mcusername.PNG"
+          "mcusername.PNG",
+          "mcusernam1.PNG"
         ],
         "url": "https://mcuserna.me/",
         "technologies": [
@@ -30,8 +31,8 @@
         "startDate": "2021",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "namemc+.PNG",
+          "namemc2.PNG"
         ],
         "url": "https://github.com/M6yo/NameMCplus/",
         "technologies": [
