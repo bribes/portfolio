@@ -1,20 +1,15 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Faav",
+      "titles": [ "Front-end Developer", "Web Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/withdrew",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Shadow_Isles_Hauntling_profileicon.png"
     },
     "skills": {
       "icons": [
