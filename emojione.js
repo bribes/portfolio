@@ -1,0 +1,1 @@
+SimpleSVG._loaderCallback({"prefix":"emojione","icons":{"red-circle":{"body":"<circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"#ed4c5c\"/>"}},"width":64,"height":64});
