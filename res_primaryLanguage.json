@@ -13,7 +13,7 @@
       {
         "title": "MCusername",
         "startDate": "2021",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "An awesome website me and 88 worked on! I had a ton of fun working on it, aand learned a lot from it.",
         "images": [
           "mcusername.PNG",
           "mcusernam1.PNG"
@@ -29,10 +29,10 @@
       {
         "title": "NameMC+",
         "startDate": "2021",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "An awesome Chrome Extension me and my friend M6 made. This was my first time ever working on a Chrome Extension! I learned a ton about making chrome extensions from this.",
         "images": [
-          "namemc+.PNG",
-          "namemc2.PNG"
+          "namemc2.PNG",
+          "namemc+.PNG"
         ],
         "url": "https://github.com/M6yo/NameMCplus/",
         "technologies": [
