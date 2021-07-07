@@ -65,7 +65,7 @@
         "title": "Name History Checker",
         "years": "04/10/2021 - 5/17/2021",
         "mainTech": [
-          "Minecraft Name History Lookup"
+          "Website"
         ],
         "technologies": [
           "JavaScript",
@@ -78,7 +78,7 @@
         "title": "MCusername",
         "years": "04/27/2021 - present",
         "mainTech": [
-          "Minecraft Username Lookup"
+          "Website"
         ],
         "technologies": [
           "JavaScript",
@@ -87,11 +87,11 @@
         ]
       },
       {
-        "company": "M6yo",
+        "company": "M6",
         "title": "NameMC+",
         "years": "06/15/2021 - present",
         "mainTech": [
-          "Chrome Extension"
+          "Browser Extension"
         ],
         "technologies": [
           "JavaScript",
