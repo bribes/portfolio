@@ -9,6 +9,11 @@
           "class": "fab fa-github"
         },
         {
+          "name": "twitter",
+          "url": "https://twitter.com/ignGrudges",
+          "class": "fab fa-twitter"
+        },
+        {
           "name": "discord",
           "url": "http://dsc.bio/faav",
           "class": "fab fa-discord"
