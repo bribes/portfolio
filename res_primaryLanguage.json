@@ -61,6 +61,19 @@
     ],
     "experience": [
       {
+        "company": "Faav",
+        "title": "Name History Checker",
+        "years": "04/10/2021 - 5/17/2021",
+        "mainTech": [
+          "Minecraft Name History Lookup"
+        ],
+        "technologies": [
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
         "company": "88",
         "title": "MCusername",
         "years": "04/27/2021 - present",
