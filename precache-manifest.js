@@ -1,4 +1,4 @@
-self.__precacheManifest = (self.__precacheManifest || []).concat([
+/*self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fce47fed5965eeae2bb12b22ce7eb5f1",
     "url": "/portfolio/index.html"
@@ -20,3 +20,4 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/main.chunk.js"
   }
 ]);
+*/
