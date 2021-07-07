@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Faav. I am a Web Developer that mainly uses JS. Coding is my passion!",
+      "description_header": "helo",
+      "description": "👋 i'm faav. i am a web developer that mainly uses js. coding is my passion!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "MCusername",
+        "title": "MCuserna.me",
         "startDate": "2021",
-        "description": "An awesome website me and 88 worked on! I had a ton of fun working on it, aand learned a lot from it.",
+        "description": "an awesome website me and the people at 88 worked on! i had a ton of fun working on it, aand learned a lot from it.",
         "images": [
           "mcusername.PNG",
           "mcusernam1.PNG"
@@ -29,7 +29,7 @@
       {
         "title": "NameMC+",
         "startDate": "2021",
-        "description": "An awesome Chrome Extension me and my friend M6 made. This was my first time ever working on a Chrome Extension! I learned a ton about making chrome extensions from this.",
+        "description": "an awesome chrome extension me and my friend M6 made. this was my first time ever working on a chrome extension! i learned a ton about making chrome extensions from this.",
         "images": [
           "namemc2.PNG",
           "namemc3.PNG"
