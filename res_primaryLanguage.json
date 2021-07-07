@@ -13,7 +13,7 @@
       {
         "title": "MCusername",
         "startDate": "2021",
-        "description": "an awesome website me and the people at 88 worked on! i had a ton of fun working on it, aand learned a lot from it.",
+        "description": "an awesome website me and the people at 88 worked on! i had a ton of fun working on it, and i learned a ton from working on it.",
         "images": [
           "mcusername.PNG",
           "mcusernam1.PNG"
@@ -46,7 +46,7 @@
     "experience": [
       {
         "company": "88",
-        "title": "MCuserna.me",
+        "title": "MCusername",
         "years": "04/27/2021 - present",
         "mainTech": [
           "Minecraft Username Lookup"
