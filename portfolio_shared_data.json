@@ -7,6 +7,11 @@
           "name": "github",
           "url": "https://github.com/withdrew",
           "class": "fab fa-github"
+        },
+        {
+          "name": "discord",
+          "url": "http://dsc.bio/faav",
+          "class": "fab fa-discord"
         }
       ],
       "image": "../Shadow_Isles_Hauntling_profileicon.png"
