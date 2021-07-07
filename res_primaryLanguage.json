@@ -45,11 +45,11 @@
     ],
     "experience": [
       {
-        "company": "M6yo",
-        "title": "NameMC+",
-        "years": "06/15/2021 - present",
+        "company": "88",
+        "title": "MCuserna.me",
+        "years": "04/27/2021 - present",
         "mainTech": [
-          "Chrome Extension"
+          "Minecraft Username Lookup"
         ],
         "technologies": [
           "JavaScript",
@@ -58,11 +58,11 @@
         ]
       },
       {
-        "company": "88",
-        "title": "MCuserna.me",
-        "years": "04/27/2021 - present",
+        "company": "M6yo",
+        "title": "NameMC+",
+        "years": "06/15/2021 - present",
         "mainTech": [
-          "Minecraft Username Lookup"
+          "Chrome Extension"
         ],
         "technologies": [
           "JavaScript",
