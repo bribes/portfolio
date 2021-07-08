@@ -1,0 +1,103 @@
+{
+    "basic_info": {
+      "description_header": "helo",
+      "description": "👋 i'm faav. i am a web developer that mainly uses js. coding is my passion!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+       {
+        "title": "Name History Checker",
+        "startDate": "2021",
+        "description": "an cool web project i made when i started learning about js. i learned a ton from it and has a lot of fun making it!",
+        "images": [
+          "nhc.PNG",
+          "nhc2.PNG"
+        ],
+        "url": "https://withdrew.github.io/Name-History-Checker/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "MCusername",
+        "startDate": "2021",
+        "description": "an awesome website me and the people at 88 worked on! i had a ton of fun working on it, and i learned a ton from working on it.",
+        "images": [
+          "mcun.PNG",
+          "mcusernam1.PNG"
+        ],
+        "url": "https://mcuserna.me/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "NameMC+",
+        "startDate": "2021",
+        "description": "an awesome chrome extension me and my friend M6 made. this was my first time ever working on a chrome extension! i learned a ton about making chrome extensions from this.",
+        "images": [
+          "namemc2.PNG",
+          "namemc3.PNG"
+        ],
+        "url": "https://github.com/M6yo/NameMCplus/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Faav",
+        "title": "Name History Checker",
+        "years": "04/10/2021 - 5/17/2021",
+        "mainTech": [
+          "Template"
+        ],
+        "technologies": [
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "88",
+        "title": "MCusername",
+        "years": "04/27/2021 - present",
+        "mainTech": [
+          "Website"
+        ],
+        "technologies": [
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "M6",
+        "title": "NameMC+",
+        "years": "06/15/2021 - present",
+        "mainTech": [
+          "Browser Extension"
+        ],
+        "technologies": [
+          "JavaScript",
+          "HTML",
+          "CSS"
+        ]
+      }
+    ]
+  }
