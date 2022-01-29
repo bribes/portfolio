@@ -15,10 +15,10 @@
         "startDate": "2021",
         "description": "an cool web project i made when i started learning about js. i learned a ton from it and has a lot of fun making it!",
         "images": [
-          "https://cdn.jsdelivr.net/gh/withdrew/portfolio@master/nhc.PNG",
-          "https://cdn.jsdelivr.net/gh/withdrew/portfolio@master/nhc2.PNG"
+          "https://cdn.jsdelivr.net/gh/bribes/portfolio@master/nhc.PNG",
+          "https://cdn.jsdelivr.net/gh/bribes/portfolio@master/nhc2.PNG"
         ],
-        "url": "https://withdrew.github.io/Name-History-Checker/",
+        "url": "https://bribes.github.io/Name-History-Checker/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -31,8 +31,8 @@
         "startDate": "2021",
         "description": "an awesome website me and the people at 88 worked on! i had a ton of fun working on it, and i learned a ton from working on it.",
         "images": [
-          "https://cdn.jsdelivr.net/gh/withdrew/portfolio@master/mcun.PNG",
-          "https://cdn.jsdelivr.net/gh/withdrew/portfolio@master/mcusernam1.PNG"
+          "https://cdn.jsdelivr.net/gh/bribes/portfolio@master/mcun.PNG",
+          "https://cdn.jsdelivr.net/gh/bribes/portfolio@master/mcusernam1.PNG"
         ],
         "url": "https://mcuserna.me/",
         "technologies": [
@@ -47,8 +47,8 @@
         "startDate": "2021",
         "description": "an awesome chrome extension me and my friend M6 made. this was my first time ever working on a chrome extension! i learned a ton about making chrome extensions from this.",
         "images": [
-          "https://cdn.jsdelivr.net/gh/withdrew/portfolio@master/namemc2.PNG",
-          "https://cdn.jsdelivr.net/gh/withdrew/portfolio@master/namemc3.PNG"
+          "https://cdn.jsdelivr.net/gh/bribes/portfolio@master/namemc2.PNG",
+          "https://cdn.jsdelivr.net/gh/bribes/portfolio@master/namemc3.PNG"
         ],
         "url": "https://github.com/M6yo/NameMCplus/",
         "technologies": [
